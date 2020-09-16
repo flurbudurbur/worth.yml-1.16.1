@@ -6,1020 +6,772 @@
 
 
 worth:
-#   wood:
-#       acacia
-  - acacia_boat: 4.50
-  - acacia_button: 0.50
-  - acacia_door: 1.00
-  - acacia_fence: 0.85
-  - acacia_fence_gate: 2.00
-  - acacia_leaves: 3.00
-  - acacia_log: 2.00
-  - acacia_planks: 0.50
-  - acacia_pressure_plate: 1.00
-  - acacia_sign: 1.00
-  - acacia_slab: 0.25
-  - acacia_stairs: 0.75
-  - acacia_trapdoor: 1.50
-  - acacia_wood: 2.66
-#       birch
-  - birch_boat: 4.50
-  - birch_button: 0.50
-  - birch_door: 1.00
-  - birch_fence: 0.85
-  - birch_fence_gate: 2.00
-  - birch_leaves: 3.00
-  - birch_log: 2.00
-  - birch_planks: 0.50
-  - birch_pressure_plate: 1.00
-  - birch_sign: 1.00
-  - birch_slab: 0.25
-  - birch_stairs: 0.75
-  - birch_trapdoor: 1.50
-  - birch_wood: 2.66
-#       crimson:
-  - crimson_button: 0.50
-  - crimson_door: 1.00
-  - crimson_fence: 0.85
-  - crimson_fence_gate: 2.00
-  - crimson_hyphae: 2.66
-  - crimson_planks: 0.50
-  - crimson_pressure_plate: 1.00
-  - crimson_sign: 1.00
-  - crimson_slab: 0.25
-  - crimson_stairs: 0.75
-  - crimson_stem: 2.00
-  - crimson_trapdoor: 1.50
-  
-#       misc. wood
-  - bowl: 1.50
-  - chest: 4.00
-  - composter: 1.75
-  - crafting_table: 2.00
-  
-#   gold:
-  - activator_rail:
-  
-#   plants:
-  - acacia_sapling: 3.00
-  - birch_sapling: 3.00
-  - allium: 0.50
-  - azure_bluet: 0.50
-  - bamboo: 5.00
-  - beetroot_seeds: 0.20
-  - blue_orchid: 0.50
-  - brain_coral: 5.00
-  - brain_coral_fan: 5.00
-  - brown_mushroom: 0.75
-  - bubble_coral: 5.00
-  - bubble_coral_fan: 5.00
-  - chorus_flower: 50.00
-  - chorus_plant: 5.00
-  - cornflower: 0.50
-  - crimson_fungus: 3.00
-  - crimson_roots: 1.50
-
-#   netherite:
-  - ancient_debris: 1000
-
-#   stone:
-#       andesite
-  - andesite: 3.00
-  - andesite_slab: 1.50
-  - andesite_stairs: 3.00
-  - andesite_wall: 3.00
-#       cobblestone
-  - cobblestone: 3.00
-  - cobblestone_slab: 1.50
-  - cobblestone_stairs: 3.00
-  - cobblestone_wall: 3.00
-#       stone bricks
-  - cracked_stone_bricks:
-
-#   iron: 
-#   ingot 20
-  - anvil: 620.00
-  - bucket: 60.00
-  - chipped_anvil: 415.00
-  - chest_minecart: 104.00
-  
-#   food:
-#   what influences the price:
-#    - 0.50 per food bar.
-#    - 1.00 per other use (healing pets, speeding pet growth, other recipe etc). villager trading excluded.
-  - apple: 5.00
-  - baked_potato: 4.50
-  - beef: 1.50
-  - beetroot: 1.50
-  - beetroot_soup: 3.00
-  - bread:
-  - cake:
-  - carrot: 2.50
-  - chicken: 1.00
-  - chorus_fruit: 3.00
-  - cod: 1.00
-  - cooked_beef: 4.00
-  - cooked_chicken: 3.00
-  - cooked_cod: 2.50
-  - cooked_mutton: 3.00
-  - cooked_porkchop: 4.00
-  - cooked_rabbit: 2.50
-  - cooked_salmon: 3.00
-  - cookie: 1.00
-  
-#   miscellaneous:
-  - armor_stand: 3.00
-  - arrow: 1.50
-  - barrel: 3.50
-  - beacon: 
-  - bee_nest: 75.00
-  - beehive: 50.00
-  - bell:
-  - blast_furnace:
-  - bone_block: 0.45
-  - bone_meal: 0.05
-  - book:
-  - bookshelf:
-  - campfire:
-  - carrot_on_a_stick:
-  - cartography_table:
-  - carved_pumpkin: 30.00
-  - cauldron: 140.00
-  - chain: 24.50
-  - charcoal: 4.00
-  - clay_ball: 10.00
-  - clock: 
-  - cobweb: 10.00
-  - cocoa_beans: 0.50
-  - cod_bucket: 90.00
-  - compass: 90.00
-  - conduit:
-
-#       shulker boxes
-#  - black_shulker_box: 55.00
-#  - blue_shulker_box: 55.00
-  
-#      spawn eggs
-  - bat_spawn_egg:
-  - bee_spawn_egg:
-  - blaze_spawn_egg:
-  - cat_spawn_egg:
-  - cave_spider_spawn_egg:
-  - chicken_spawn_egg:
-  - cod_spawn_egg:
-  - cow_spawn_egg:
-  - creeper_spawn_egg:
-#       banner paterns
-  - creeper_banner_pattern: 3000.00
-
-#   nether:
-  - basalt: 4.00
-  - blackstone: 5.00
-  - blackstone_slab: 2.50
-  - blackstone_stairs: 5.00
-  - blackstone_wall: 5.00
-  - chiseled_nether_bricks:
-  - chiseled_polished_blackstone: 5.00
-  - chiseled_quartz_block:
-  - cracked_nether_bricks:
-  - cracked_polished_blackstone_bricks: 6.00
-  
-#   wool:
-#       black
-  - black_banner: 4.75
-  - black_bed: 2.25
-  - black_carpet: 0.50
-  - black_wool: 0.75
-  
-#       blue
-  - blue_banner: 4.75
-  - blue_bed: 2.25
-  - blue_carpet: 0.50
-  - blue_wool: 0.75
-  
-#       brown
-  - brown_banner: 4.75
-  - brown_bed: 2.25
-  - brown_carpet: 0.50
-  - brown_wool: 0.75
-  
-#   decoration blocks:
-#       black
-  - black_concrete:
-  - black_concrete_powder: 
-  - black_glazed_terracotta: 
-  - black_stained_glass:
-  - black_stained_glass_pane:
-  - black_terracotta:
-#       blue
-  - blue_concrete:
-  - blue_concrete_powder:
-  - blue_glazed_terracotta:
-  - blue_stained_glass:
-  - blue_stained_glass_pane:
-  - blue_terracotta:  
-#       brown
-  - brown_concrete_powder:
-  - brown_concrete:
-  - brown_glazed_terracotta:
-  - brown_stained_glass:
-  - brown_stained_glass_pane:
-  - brown_terracotta:
-  
-#   dyes:
-  - black_dye: 1.50
-  - blue_dye: 3.00
-  - brown_dye: 3.50
-  
-#   mob drops
-  - blaze_powder: 3.75
-  - blaze_rod: 7.50
-  - bone: 0.15
-  - creeper_head: 5000.00
-  
-#   blocks:
-  - blue_ice:
-  - brick: 
-  - brick_slab:
-  - brick_wall:
-  - bricks: 
-  - brown_mushroom_block: 2.50
-  - clay: 40.00
-  - coarse_dirt:
-  - crimson_nylium: 1.25
-#       sand
-  - chiseled_red_sandstone:
-  - chiseled_sandstone:
-  - chiseled_stone_bricks:
-  - cut_red_sandstone:
-  - cut_red_sandstone_slab:
-  - cut_sandstone:
-  - cut_sandstone_slab:
-
-#   coal:
-  - coal: 15.00
-  - coal_block: 135.00
-  - coal_ore: 20.00
-
-#   redstone: (& components)
-  - comparator: 
-
-crossbow
-crying_obsidian
-
-cyan_banner
-cyan_bed
-cyan_carpet
-cyan_concrete
-cyan_concrete_powder
-cyan_dye
-cyan_glazed_terracotta
-cyan_shulker_box
-cyan_stained_glass
-cyan_stained_glass_pane
-cyan_terracotta
-cyan_wool
-minecraft:damaged_anvil
-minecraft:dandelion
-minecraft:dark_oak_boat
-minecraft:dark_oak_button
-minecraft:dark_oak_door
-minecraft:dark_oak_fence
-minecraft:dark_oak_fence_gate
-minecraft:dark_oak_leaves
-minecraft:dark_oak_log
-minecraft:dark_oak_planks
-minecraft:dark_oak_pressure_plate
-minecraft:dark_oak_sapling
-minecraft:dark_oak_sign
-minecraft:dark_oak_slab
-minecraft:dark_oak_stairs
-minecraft:dark_oak_trapdoor
-minecraft:dark_oak_wood
-minecraft:dark_prismarine
-minecraft:dark_prismarine_slab
-minecraft:dark_prismarine_stairs
-minecraft:daylight_detector
-minecraft:dead_brain_coral
-minecraft:dead_brain_coral_block
-minecraft:dead_brain_coral_fan
-minecraft:dead_bubble_coral
-minecraft:dead_bubble_coral_block
-minecraft:dead_bubble_coral_fan
-minecraft:dead_bush
-minecraft:dead_fire_coral
-minecraft:dead_fire_coral_block
-minecraft:dead_fire_coral_fan
-minecraft:dead_horn_coral
-minecraft:dead_horn_coral_block
-minecraft:dead_horn_coral_fan
-minecraft:dead_tube_coral
-minecraft:dead_tube_coral_block
-minecraft:dead_tube_coral_fan
-minecraft:debug_stick
-minecraft:detector_rail
-minecraft:diamond
-minecraft:diamond_axe
-minecraft:diamond_block
-minecraft:diamond_boots
-minecraft:diamond_chestplate
-minecraft:diamond_helmet
-minecraft:diamond_hoe
-minecraft:diamond_horse_armor
-minecraft:diamond_leggings
-minecraft:diamond_ore
-minecraft:diamond_pickaxe
-minecraft:diamond_shovel
-minecraft:diamond_sword
-minecraft:diorite
-minecraft:diorite_slab
-minecraft:diorite_stairs
-minecraft:diorite_wall
-minecraft:dirt
-minecraft:dispenser
-minecraft:dolphin_spawn_egg
-minecraft:donkey_spawn_egg
-minecraft:dragon_breath
-minecraft:dragon_egg
-minecraft:dragon_head
-minecraft:dried_kelp
-minecraft:dried_kelp_block
-minecraft:dropper
-minecraft:drowned_spawn_egg
-minecraft:egg
-minecraft:elder_guardian_spawn_egg
-minecraft:elytra
-minecraft:emerald
-minecraft:emerald_block
-minecraft:emerald_ore
-minecraft:enchanted_book
-minecraft:enchanted_golden_apple
-minecraft:enchanting_table
-minecraft:end_crystal
-minecraft:end_portal_frame
-minecraft:end_rod
-minecraft:end_stone
-minecraft:end_stone_brick_slab
-minecraft:end_stone_brick_stairs
-minecraft:end_stone_brick_wall
-minecraft:end_stone_bricks
-minecraft:ender_chest
-minecraft:ender_eye
-minecraft:ender_pearl
-minecraft:enderman_spawn_egg
-minecraft:endermite_spawn_egg
-minecraft:evoker_spawn_egg
-minecraft:experience_bottle
-minecraft:farmland
-minecraft:feather
-minecraft:fermented_spider_eye
-minecraft:fern
-minecraft:filled_map
-minecraft:fire_charge
-minecraft:fire_coral
-minecraft:fire_coral_block
-minecraft:fire_coral_fan
-minecraft:firework_rocket
-minecraft:firework_star
-minecraft:fishing_rod
-minecraft:fletching_table
-minecraft:flint
-minecraft:flint_and_steel
-minecraft:flower_banner_pattern
-minecraft:flower_pot
-minecraft:fox_spawn_egg
-minecraft:furnace
-minecraft:furnace_minecart
-minecraft:ghast_spawn_egg
-minecraft:ghast_tear
-minecraft:gilded_blackstone
-minecraft:glass
-minecraft:glass_bottle
-minecraft:glass_pane
-minecraft:glistering_melon_slice
-minecraft:globe_banner_pattern
-minecraft:glowstone
-minecraft:glowstone_dust
-minecraft:gold_block
-minecraft:gold_ingot
-minecraft:gold_nugget
-minecraft:gold_ore
-minecraft:golden_apple
-minecraft:golden_axe
-minecraft:golden_boots
-minecraft:golden_carrot
-minecraft:golden_chestplate
-minecraft:golden_helmet
-minecraft:golden_hoe
-minecraft:golden_horse_armor
-minecraft:golden_leggings
-minecraft:golden_pickaxe
-minecraft:golden_shovel
-minecraft:golden_sword
-minecraft:granite
-minecraft:granite_slab
-minecraft:granite_stairs
-minecraft:granite_wall
-minecraft:grass
-minecraft:grass_block
-minecraft:grass_path
-minecraft:gravel
-minecraft:gray_banner
-minecraft:gray_bed
-minecraft:gray_carpet
-minecraft:gray_concrete
-minecraft:gray_concrete_powder
-minecraft:gray_dye
-minecraft:gray_glazed_terracotta
-minecraft:gray_shulker_box
-minecraft:gray_stained_glass
-minecraft:gray_stained_glass_pane
-minecraft:gray_terracotta
-minecraft:gray_wool
-minecraft:green_banner
-minecraft:green_bed
-minecraft:green_carpet
-minecraft:green_concrete
-minecraft:green_concrete_powder
-minecraft:green_dye
-minecraft:green_glazed_terracotta
-minecraft:green_shulker_box
-minecraft:green_stained_glass
-minecraft:green_stained_glass_pane
-minecraft:green_terracotta
-minecraft:green_wool
-minecraft:grindstone
-minecraft:guardian_spawn_egg
-minecraft:gunpowder
-minecraft:hay_block
-minecraft:heart_of_the_sea
-minecraft:heavy_weighted_pressure_plate
-minecraft:hoglin_spawn_egg
-minecraft:honey_block
-minecraft:honey_bottle
-minecraft:honeycomb
-minecraft:honeycomb_block
-minecraft:hopper
-minecraft:hopper_minecart
-minecraft:horn_coral
-minecraft:horn_coral_block
-minecraft:horn_coral_fan
-minecraft:horse_spawn_egg
-minecraft:husk_spawn_egg
-minecraft:ice
-minecraft:infested_chiseled_stone_bricks
-minecraft:infested_cobblestone
-minecraft:infested_cracked_stone_bricks
-minecraft:infested_mossy_stone_bricks
-minecraft:infested_stone
-minecraft:infested_stone_bricks
-minecraft:ink_sac
-minecraft:iron_axe
-minecraft:iron_bars
-minecraft:iron_block
-minecraft:iron_boots
-minecraft:iron_chestplate
-minecraft:iron_door
-minecraft:iron_helmet
-minecraft:iron_hoe
-minecraft:iron_horse_armor
-minecraft:iron_ingot
-minecraft:iron_leggings
-minecraft:iron_nugget
-minecraft:iron_ore
-minecraft:iron_pickaxe
-minecraft:iron_shovel
-minecraft:iron_sword
-minecraft:iron_trapdoor
-minecraft:item_frame
-minecraft:jack_o_lantern
-minecraft:jigsaw
-minecraft:jukebox
-minecraft:jungle_boat
-minecraft:jungle_button
-minecraft:jungle_door
-minecraft:jungle_fence
-minecraft:jungle_fence_gate
-minecraft:jungle_leaves
-minecraft:jungle_log
-minecraft:jungle_planks
-minecraft:jungle_pressure_plate
-minecraft:jungle_sapling
-minecraft:jungle_sign
-minecraft:jungle_slab
-minecraft:jungle_stairs
-minecraft:jungle_trapdoor
-minecraft:jungle_wood
-minecraft:kelp
-minecraft:knowledge_book
-minecraft:ladder
-minecraft:lantern
-minecraft:lapis_block
-minecraft:lapis_lazuli
-minecraft:lapis_ore
-minecraft:large_fern
-minecraft:lava_bucket
-minecraft:lead
-minecraft:leather
-minecraft:leather_boots
-minecraft:leather_chestplate
-minecraft:leather_helmet
-minecraft:leather_horse_armor
-minecraft:leather_leggings
-minecraft:lectern
-minecraft:lever
-minecraft:light_blue_banner
-minecraft:light_blue_bed
-minecraft:light_blue_carpet
-minecraft:light_blue_concrete
-minecraft:light_blue_concrete_powder
-minecraft:light_blue_dye
-minecraft:light_blue_glazed_terracotta
-minecraft:light_blue_shulker_box
-minecraft:light_blue_stained_glass
-minecraft:light_blue_stained_glass_pane
-minecraft:light_blue_terracotta
-minecraft:light_blue_wool
-minecraft:light_gray_banner
-minecraft:light_gray_bed
-minecraft:light_gray_carpet
-minecraft:light_gray_concrete
-minecraft:light_gray_concrete_powder
-minecraft:light_gray_dye
-minecraft:light_gray_glazed_terracotta
-minecraft:light_gray_shulker_box
-minecraft:light_gray_stained_glass
-minecraft:light_gray_stained_glass_pane
-minecraft:light_gray_terracotta
-minecraft:light_gray_wool
-minecraft:light_weighted_pressure_plate
-minecraft:lilac
-minecraft:lily_of_the_valley
-minecraft:lily_pad
-minecraft:lime_banner
-minecraft:lime_bed
-minecraft:lime_carpet
-minecraft:lime_concrete
-minecraft:lime_concrete_powder
-minecraft:lime_dye
-minecraft:lime_glazed_terracotta
-minecraft:lime_shulker_box
-minecraft:lime_stained_glass
-minecraft:lime_stained_glass_pane
-minecraft:lime_terracotta
-minecraft:lime_wool
-minecraft:lingering_potion
-minecraft:llama_spawn_egg
-minecraft:lodestone
-minecraft:loom
-minecraft:magenta_banner
-minecraft:magenta_bed
-minecraft:magenta_carpet
-minecraft:magenta_concrete
-minecraft:magenta_concrete_powder
-minecraft:magenta_dye
-minecraft:magenta_glazed_terracotta
-minecraft:magenta_shulker_box
-minecraft:magenta_stained_glass
-minecraft:magenta_stained_glass_pane
-minecraft:magenta_terracotta
-minecraft:magenta_wool
-minecraft:magma_block
-minecraft:magma_cream
-minecraft:magma_cube_spawn_egg
-minecraft:map
-minecraft:melon
-minecraft:melon_seeds
-minecraft:melon_slice
-minecraft:milk_bucket
-minecraft:minecart
-minecraft:mojang_banner_pattern
-minecraft:mooshroom_spawn_egg
-minecraft:mossy_cobblestone
-minecraft:mossy_cobblestone_slab
-minecraft:mossy_cobblestone_stairs
-minecraft:mossy_cobblestone_wall
-minecraft:mossy_stone_brick_slab
-minecraft:mossy_stone_brick_stairs
-minecraft:mossy_stone_brick_wall
-minecraft:mossy_stone_bricks
-minecraft:mule_spawn_egg
-minecraft:mushroom_stem
-minecraft:mushroom_stew
-minecraft:music_disc_11
-minecraft:music_disc_13
-minecraft:music_disc_blocks
-minecraft:music_disc_cat
-minecraft:music_disc_chirp
-minecraft:music_disc_far
-minecraft:music_disc_mall
-minecraft:music_disc_mellohi
-minecraft:music_disc_pigstep
-minecraft:music_disc_stal
-minecraft:music_disc_strad
-minecraft:music_disc_wait
-minecraft:music_disc_ward
-minecraft:mutton
-minecraft:mycelium
-minecraft:name_tag
-minecraft:nautilus_shell
-minecraft:nether_brick
-minecraft:nether_brick_fence
-minecraft:nether_brick_slab
-minecraft:nether_brick_stairs
-minecraft:nether_brick_wall
-minecraft:nether_bricks
-minecraft:nether_gold_ore
-minecraft:nether_quartz_ore
-minecraft:nether_sprouts
-minecraft:nether_star
-minecraft:nether_wart
-minecraft:nether_wart_block
-minecraft:netherite_axe
-minecraft:netherite_block
-minecraft:netherite_boots
-minecraft:netherite_chestplate
-minecraft:netherite_helmet
-minecraft:netherite_hoe
-minecraft:netherite_ingot
-minecraft:netherite_leggings
-minecraft:netherite_pickaxe
-minecraft:netherite_scrap
-minecraft:netherite_shovel
-minecraft:netherite_sword
-minecraft:netherrack
-minecraft:note_block
-minecraft:oak_boat
-minecraft:oak_button
-minecraft:oak_door
-minecraft:oak_fence
-minecraft:oak_fence_gate
-minecraft:oak_leaves
-minecraft:oak_log
-minecraft:oak_planks
-minecraft:oak_pressure_plate
-minecraft:oak_sapling
-minecraft:oak_sign
-minecraft:oak_slab
-minecraft:oak_stairs
-minecraft:oak_trapdoor
-minecraft:oak_wood
-minecraft:observer
-minecraft:obsidian
-minecraft:ocelot_spawn_egg
-minecraft:orange_banner
-minecraft:orange_bed
-minecraft:orange_carpet
-minecraft:orange_concrete
-minecraft:orange_concrete_powder
-minecraft:orange_dye
-minecraft:orange_glazed_terracotta
-minecraft:orange_shulker_box
-minecraft:orange_stained_glass
-minecraft:orange_stained_glass_pane
-minecraft:orange_terracotta
-minecraft:orange_tulip
-minecraft:orange_wool
-minecraft:oxeye_daisy
-minecraft:packed_ice
-minecraft:painting
-minecraft:panda_spawn_egg
-minecraft:paper
-minecraft:parrot_spawn_egg
-minecraft:peony
-minecraft:petrified_oak_slab
-minecraft:phantom_membrane
-minecraft:phantom_spawn_egg
-minecraft:pig_spawn_egg
-minecraft:piglin_banner_pattern
-minecraft:piglin_spawn_egg
-minecraft:pillager_spawn_egg
-minecraft:pink_banner
-minecraft:pink_bed
-minecraft:pink_carpet
-minecraft:pink_concrete
-minecraft:pink_concrete_powder
-minecraft:pink_dye
-minecraft:pink_glazed_terracotta
-minecraft:pink_shulker_box
-minecraft:pink_stained_glass
-minecraft:pink_stained_glass_pane
-minecraft:pink_terracotta
-minecraft:pink_tulip
-minecraft:pink_wool
-minecraft:piston
-minecraft:player_head
-minecraft:podzol
-minecraft:poisonous_potato
-minecraft:polar_bear_spawn_egg
-minecraft:polished_andesite
-minecraft:polished_andesite_slab
-minecraft:polished_andesite_stairs
-minecraft:polished_basalt
-minecraft:polished_blackstone
-minecraft:polished_blackstone_brick_slab
-minecraft:polished_blackstone_brick_stairs
-minecraft:polished_blackstone_brick_wall
-minecraft:polished_blackstone_bricks
-minecraft:polished_blackstone_button
-minecraft:polished_blackstone_pressure_plate
-minecraft:polished_blackstone_slab
-minecraft:polished_blackstone_stairs
-minecraft:polished_blackstone_wall
-minecraft:polished_diorite
-minecraft:polished_diorite_slab
-minecraft:polished_diorite_stairs
-minecraft:polished_granite
-minecraft:polished_granite_slab
-minecraft:polished_granite_stairs
-minecraft:popped_chorus_fruit
-minecraft:poppy
-minecraft:porkchop
-minecraft:potato
-minecraft:potion
-minecraft:powered_rail
-minecraft:prismarine
-minecraft:prismarine_brick_slab
-minecraft:prismarine_brick_stairs
-minecraft:prismarine_bricks
-minecraft:prismarine_crystals
-minecraft:prismarine_shard
-minecraft:prismarine_slab
-minecraft:prismarine_stairs
-minecraft:prismarine_wall
-minecraft:pufferfish
-minecraft:pufferfish_bucket
-minecraft:pufferfish_spawn_egg
-minecraft:pumpkin
-minecraft:pumpkin_pie
-minecraft:pumpkin_seeds
-minecraft:purple_banner
-minecraft:purple_bed
-minecraft:purple_carpet
-minecraft:purple_concrete
-minecraft:purple_concrete_powder
-minecraft:purple_dye
-minecraft:purple_glazed_terracotta
-minecraft:purple_shulker_box
-minecraft:purple_stained_glass
-minecraft:purple_stained_glass_pane
-minecraft:purple_terracotta
-minecraft:purple_wool
-minecraft:purpur_block
-minecraft:purpur_pillar
-minecraft:purpur_slab
-minecraft:purpur_stairs
-minecraft:quartz
-minecraft:quartz_block
-minecraft:quartz_bricks
-minecraft:quartz_pillar
-minecraft:quartz_slab
-minecraft:quartz_stairs
-minecraft:rabbit
-minecraft:rabbit_foot
-minecraft:rabbit_hide
-minecraft:rabbit_spawn_egg
-minecraft:rabbit_stew
-minecraft:rail
-minecraft:ravager_spawn_egg
-minecraft:red_banner
-minecraft:red_bed
-minecraft:red_carpet
-minecraft:red_concrete
-minecraft:red_concrete_powder
-minecraft:red_dye
-minecraft:red_glazed_terracotta
-minecraft:red_mushroom
-minecraft:red_mushroom_block
-minecraft:red_nether_brick_slab
-minecraft:red_nether_brick_stairs
-minecraft:red_nether_brick_wall
-minecraft:red_nether_bricks
-minecraft:red_sand
-minecraft:red_sandstone
-minecraft:red_sandstone_slab
-minecraft:red_sandstone_stairs
-minecraft:red_sandstone_wall
-minecraft:red_shulker_box
-minecraft:red_stained_glass
-minecraft:red_stained_glass_pane
-minecraft:red_terracotta
-minecraft:red_tulip
-minecraft:red_wool
-minecraft:redstone
-minecraft:redstone_block
-minecraft:redstone_lamp
-minecraft:redstone_ore
-minecraft:redstone_torch
-minecraft:repeater
-minecraft:repeating_command_block
-minecraft:respawn_anchor
-minecraft:rose_bush
-minecraft:rotten_flesh
-minecraft:saddle
-minecraft:salmon
-minecraft:salmon_bucket
-minecraft:salmon_spawn_egg
-minecraft:sand
-minecraft:sandstone
-minecraft:sandstone_slab
-minecraft:sandstone_stairs
-minecraft:sandstone_wall
-minecraft:scaffolding
-minecraft:scute
-minecraft:sea_lantern
-minecraft:sea_pickle
-minecraft:seagrass
-minecraft:shears
-minecraft:sheep_spawn_egg
-minecraft:shield
-minecraft:shroomlight
-minecraft:shulker_box
-minecraft:shulker_shell
-minecraft:shulker_spawn_egg
-minecraft:silverfish_spawn_egg
-minecraft:skeleton_horse_spawn_egg
-minecraft:skeleton_skull
-minecraft:skeleton_spawn_egg
-minecraft:skull_banner_pattern
-minecraft:slime_ball
-minecraft:slime_block
-minecraft:slime_spawn_egg
-minecraft:smithing_table
-minecraft:smoker
-minecraft:smooth_quartz
-minecraft:smooth_quartz_slab
-minecraft:smooth_quartz_stairs
-minecraft:smooth_red_sandstone
-minecraft:smooth_red_sandstone_slab
-minecraft:smooth_red_sandstone_stairs
-minecraft:smooth_sandstone
-minecraft:smooth_sandstone_slab
-minecraft:smooth_sandstone_stairs
-minecraft:smooth_stone
-minecraft:smooth_stone_slab
-minecraft:snow
-minecraft:snow_block
-minecraft:snowball
-minecraft:soul_campfire
-minecraft:soul_lantern
-minecraft:soul_sand
-minecraft:soul_soil
-minecraft:soul_torch
-minecraft:spawner
-minecraft:spectral_arrow
-minecraft:spider_eye
-minecraft:spider_spawn_egg
-minecraft:splash_potion
-minecraft:sponge
-minecraft:spruce_boat
-minecraft:spruce_button
-minecraft:spruce_door
-minecraft:spruce_fence
-minecraft:spruce_fence_gate
-minecraft:spruce_leaves
-minecraft:spruce_log
-minecraft:spruce_planks
-minecraft:spruce_pressure_plate
-minecraft:spruce_sapling
-minecraft:spruce_sign
-minecraft:spruce_slab
-minecraft:spruce_stairs
-minecraft:spruce_trapdoor
-minecraft:spruce_wood
-minecraft:squid_spawn_egg
-minecraft:stick
-minecraft:sticky_piston
-minecraft:stone
-minecraft:stone_axe
-minecraft:stone_brick_slab
-minecraft:stone_brick_stairs
-minecraft:stone_brick_wall
-minecraft:stone_bricks
-minecraft:stone_button
-minecraft:stone_hoe
-minecraft:stone_pickaxe
-minecraft:stone_pressure_plate
-minecraft:stone_shovel
-minecraft:stone_slab
-minecraft:stone_stairs
-minecraft:stone_sword
-minecraft:stonecutter
-minecraft:stray_spawn_egg
-minecraft:strider_spawn_egg
-minecraft:string
-minecraft:stripped_acacia_log
-minecraft:stripped_acacia_wood
-minecraft:stripped_birch_log
-minecraft:stripped_birch_wood
-minecraft:stripped_crimson_hyphae
-minecraft:stripped_crimson_stem
-minecraft:stripped_dark_oak_log
-minecraft:stripped_dark_oak_wood
-minecraft:stripped_jungle_log
-minecraft:stripped_jungle_wood
-minecraft:stripped_oak_log
-minecraft:stripped_oak_wood
-minecraft:stripped_spruce_log
-minecraft:stripped_spruce_wood
-minecraft:stripped_warped_hyphae
-minecraft:stripped_warped_stem
-minecraft:structure_block
-minecraft:structure_void
-minecraft:sugar
-minecraft:sugar_cane
-minecraft:sunflower
-minecraft:suspicious_stew
-minecraft:sweet_berries
-minecraft:tall_grass
-minecraft:target
-minecraft:terracotta
-minecraft:tipped_arrow
-minecraft:tnt
-minecraft:tnt_minecart
-minecraft:torch
-minecraft:totem_of_undying
-minecraft:trader_llama_spawn_egg
-minecraft:trapped_chest
-minecraft:trident
-minecraft:tripwire_hook
-minecraft:tropical_fish
-minecraft:tropical_fish_bucket
-minecraft:tropical_fish_spawn_egg
-minecraft:tube_coral
-minecraft:tube_coral_block
-minecraft:tube_coral_fan
-minecraft:turtle_egg
-minecraft:turtle_helmet
-minecraft:turtle_spawn_egg
-minecraft:twisting_vines
-minecraft:vex_spawn_egg
-minecraft:villager_spawn_egg
-minecraft:vindicator_spawn_egg
-minecraft:vine
-minecraft:wandering_trader_spawn_egg
-minecraft:warped_button
-minecraft:warped_door
-minecraft:warped_fence
-minecraft:warped_fence_gate
-minecraft:warped_fungus
-minecraft:warped_fungus_on_a_stick
-minecraft:warped_hyphae
-minecraft:warped_nylium
-minecraft:warped_planks
-minecraft:warped_pressure_plate
-minecraft:warped_roots
-minecraft:warped_sign
-minecraft:warped_slab
-minecraft:warped_stairs
-minecraft:warped_stem
-minecraft:warped_trapdoor
-minecraft:warped_wart_block
-minecraft:water_bucket
-minecraft:weeping_vines
-minecraft:wet_sponge
-minecraft:wheat
-minecraft:wheat_seeds
-minecraft:white_banner
-minecraft:white_bed
-minecraft:white_carpet
-minecraft:white_concrete
-minecraft:white_concrete_powder
-minecraft:white_dye
-minecraft:white_glazed_terracotta
-minecraft:white_shulker_box
-minecraft:white_stained_glass
-minecraft:white_stained_glass_pane
-minecraft:white_terracotta
-minecraft:white_tulip
-minecraft:white_wool
-minecraft:witch_spawn_egg
-minecraft:wither_rose
-minecraft:wither_skeleton_skull
-minecraft:wither_skeleton_spawn_egg
-minecraft:wolf_spawn_egg
-minecraft:wooden_axe
-minecraft:wooden_hoe
-minecraft:wooden_pickaxe
-minecraft:wooden_shovel
-minecraft:wooden_sword
-minecraft:writable_book
-minecraft:written_book
-minecraft:yellow_banner
-minecraft:yellow_bed
-minecraft:yellow_carpet
-minecraft:yellow_concrete
-minecraft:yellow_concrete_powder
-minecraft:yellow_dye
-minecraft:yellow_glazed_terracotta
-minecraft:yellow_shulker_box
-minecraft:yellow_stained_glass
-minecraft:yellow_stained_glass_pane
-minecraft:yellow_terracotta
-minecraft:yellow_wool
-minecraft:zoglin_spawn_egg
-minecraft:zombie_head
-minecraft:zombie_horse_spawn_egg
-minecraft:zombie_spawn_egg
-minecraft:zombie_villager_spawn_egg
-minecraft:zombified_piglin_spawn_egg
+  acaciaboat: 4.5
+  acaciabutton: 0.50
+  acaciadoor: 1
+  acaciafence: 0.85
+  acaciafencegate: 2
+  acacialeaves: 3
+  acacialog: 2
+  acaciaplanks: 0.5
+  acaciapressureplate: 1
+  acaciasapling: 3
+  acaciasign: 1
+  acaciaslab: 0.25
+  acaciastairs: 0.75
+  acaciatrapdoor: 1.5
+  acaciawood: 2.65
+  activatorrail: 25.35
+  allium: 0.5
+  ancientdebris: 1000
+  andesite: 3
+  andesiteslab: 1.5
+  andesitestairs: 3
+  andesitewall: 3
+  anvil: 620
+  apple: 5
+  armorstand: 3
+  arrow: 1.5
+  azurebluet: 0.5
+  bakedpotato: 4.5
+  bamboo: 5
+  barrel: 3.5
+  basalt: 4
+  beacon: 6204.5
+  beenest: 75
+  beef: 1.5
+  beehive: 50
+  beetroot: 1.5
+  beetrootseeds: 0.2
+  beetrootsoup: 3
+  bell: 125
+  birchboat: 4.5
+  birchbutton: 0.5
+  birchdoor: 1
+  birchfence: 0.85
+  birchfencegate: 2
+  birchleaves: 3
+  birchlog: 2
+  birchplanks: 0.5
+  birchpressureplate: 1
+  birchsapling: 3
+  birchsign: 1
+  birchslab: 0.25
+  birchstairs: 0.75
+  birchtrapdoor: 1.5
+  birchwood: 2.65
+  blackbanner: 4.75
+  blackbed: 2.25
+  blackcarpet: 0.5
+  blackconcrete: 2.7
+  blackconcretepowder: 2.2
+  blackdye: 1.5
+  blackglazedterracotta: 41.2
+  blackstainedglass: 2.2
+  blackstainedglasspane: 1.1
+  blackterracotta: 40.7
+  blackwool: 0.75
+  blackstone: 2.5
+  blackstoneslab: 5
+  blackstonestairs: 5
+  blackstonewall: 5
+  blastfurnace: 135.25
+  blazerod: 5
+  bluebanner: 4.75
+  bluebed: 2.25
+  bluecarpet: 0.5
+  blueconcrete: 2.9
+  blueconcretepowder: 2.4
+  bluedye: 3
+  blueglazedterracotta: 41.4
+  blueice: 81
+  blueorchid: 0.5
+  bluestainedglass: 2.4
+  bluestainedglasspane: 1.2
+  blueterracotta: 40.9
+  bluewool: 0.75
+  bone: 0.15
+  boneblock: 0.45
+  bonemeal: 0.5
+  book: 45
+  bookshelf: 138
+  bowl: 1.5
+  braincoral: 5
+  braincoralblock: 5
+  braincoralfan: 5
+  bread: 2.5
+  brick: 10.5
+  brickslab: 21
+  brickstairs: 42
+  brickwall: 42
+  bricks: 42
+  brownbanner: 4.75
+  brownbed: 2.25
+  browncarpet: 0.5
+  brownconcrete: 2.45
+  brownconcretepowder: 2.95
+  browndye: 3.5
+  brownglazedterracotta: 41.45
+  brownmushroom: 0.75
+  brownmushroomblock: 2.5
+  brownstainedglass: 2.45
+  brownstainedglasspane: 1.2
+  brownterracotta: 40.95
+  brownwool: 0.75
+  bubblecoral: 5
+  bubblecoralfan: 5
+  bucket: 60
+  cactus: 6.5
+  cake: 7
+  campfire: 27.75
+  carrot: 2.5
+  carrots: 2.5
+  carvedpumpkin: 30
+  cauldron: 140
+  chain: 24.5
+  charcoal: 4
+  chest: 4
+  chestminecart: 104
+  chicken: 1
+  chippedanvil: 415
+  chiselednetherbricks: 1
+  chiseledpolishedblackstone: 5
+  chiseledquartzblock: 40
+  chiseledredsandstone: 8
+  chiseledsandstone: 8
+  chiseledstonebricks: 3.25
+  chorusflower: 50
+  chorusfruit: 3
+  clay: 40
+  clayball: 10
+  clock: 452
+  coal: 15
+  coalblock: 135
+  coalore: 20
+  coarsedirt: 0.50
+  cobblestone: 3
+  cobblestoneslab: 1.5
+  cobblestonestairs: 3
+  cobblestonewall: 3
+  cobweb: 10
+  cocoabeans: 0.5
+  cod: 1
+  codbucket: 90
+  comparator: 116.5
+  compass: 90
+  composter: 1.75
+  conduit: 980
+  cookedbeef: 4
+  cookedchicken: 3
+  cookedcod: 2.5
+  cookedmutton: 3
+  cookedporkchop: 4
+  cookedrabbit: 2.5
+  cookedsalmon: 3
+  cookie: 1
+  cornflower: 0.5
+  crackednetherbricks: 1.5
+  crackedpolishedblackstonebricks: 6
+  crackedstonebricks: 1.1
+  craftingtable: 2
+  creeperbannerpattern: 5010
+  creeperhead: 5000
+  crimsonbutton: 0.5
+  crimsondoor: 1
+  crimsonfence: 0.85
+  crimsonfencegate: 2
+  crimsonfungus: 3
+  crimsonhyphae: 2.66
+  crimsonnylium: 1.25
+  crimsonplanks: 05
+  crimsonpressureplate: 1
+  crimsonroots: 1.5
+  crimsonsign: 1
+  crimsonslab: 0.25
+  crimsonstairs: 0.75
+  crimsonstem: 2
+  crimsontrapdoor: 1.5
+  cryingobsidian: 1500
+  cutredsandstone: 8
+  cutredsandstoneslab: 4
+  cutsandstone: 8
+  cutsandstoneslab: 4
+  cyanbanner: 4.75
+  cyanbed: 2.25
+  cyancarpet: 0.5
+  cyanconcrete: 2.4
+  cyanconcretepowder: 2.9
+  cyandye: 3
+  cyanglazedterracotta: 41.4
+  cyanstainedglass: 2.4
+  cyanstainedglasspane: 1.2
+  cyanterracotta: 40.9
+  cyanwool: 0.75
+  damagedanvil: 210
+  dandelion: 0.5
+  darkoakboat: 4.5
+  darkoakbutton: 0.5
+  darkoakdoor: 1
+  darkoakfence: 0.85
+  darkoakfencegate: 2
+  darkoakleaves: 3
+  darkoaklog: 2
+  darkoakplanks: 0.5
+  darkoakpressureplate: 1
+  darkoaksapling: 3
+  darkoaksign: 1
+  darkoakslab: 0.25
+  darkoakstairs: 0.75
+  darkoaktrapdoor: 1.5
+  darkoakwood: 2.65
+  darkprismarine: 21.5
+  darkprismarineslab: 10.75
+  darkprismarinestairs: 32.25
+  deadbraincoral: 2
+  deadbraincoralblock: 2
+  deadbraincoralfan: 2
+  deadbubblecoral: 2
+  deadbubblecoralblock: 2
+  deadbubblecoralfan: 2
+  deadfirecoral: 2
+  deadfirecoralblock: 2
+  deadfirecoralfan: 2
+  deadhorncoral: 2
+  deadhorncoralblock: 2
+  deadhorncoralfan: 2
+  deadtubecoral: 2
+  deadtubecoralfan: 2
+  detectorrail: 143
+  diamond: 200
+  diamondblock: 1800
+  diamondhorsearmor: 800
+  diamondore: 400
+  diorite: 3
+  dioriteslab: 1.5
+  dioritestairs: 3
+  dioritewall: 3
+  dirt: 0.25
+  dispenser: 68.75
+  driedkelp: 1.5
+  driedkelpblock: 13.5
+  dropper: 28
+  egg: 1.25
+  emerald: 90
+  emeraldblock: 810
+  emeraldore: 180
+  enchantingtable: 701
+  endcrystal: 38.75
+  endrod: 11
+  endstone: 4
+  endstonebrickslab: 2
+  endstonebrickstairs: 4
+  endstonebrickwall: 4
+  endstonebricks: 4
+  enderchest: 523.25
+  endereye: 11.25
+  enderpearl: 6.5
+  feather: 3
+  fermentedspidereye: 14.25
+  fern: 2
+  firecoral: 5
+  firecoralblock: 5
+  firecoralfan: 5
+  fletchingtable: 12
+  flint: 5
+  flowerbannerpattern: 10.5
+  flowerpot: 31.5
+  furnace: 24
+  furnaceminecart: 124
+  ghasttear: 15
+  gildedblackstone: 50
+  glass: 2.5
+  glassbottle: 7.5
+  glasspane: 1.25
+  glisteringmelonslice: 94
+  globebannerpattern: 500
+  glowstone: 28
+  glowstonedust: 7
+  goldblock: 945
+  goldingot: 105
+  goldnugget: 11.65
+  goldore: 210
+  goldenapple: 845
+  goldencarrot: 94.7
+  goldenhorsearmor: 420
+  granite: 3
+  graniteslab: 1.5
+  granitestairs: 3
+  granitewall: 3
+  grass: 2
+  grassblock: 2.25
+  gravel: 2
+  graybanner: 4.75
+  graybed: 2.25
+  graycarpet: 0.5
+  grayconcrete: 2.6
+  grayconcretepowder: 2.1
+  graydye: 0.8
+  grayglazedterracotta: 41.1
+  graystainedglass: 2.1
+  graystainedglasspane: 1.5
+  grayterracotta: 40.6
+  graywool: 0.75
+  greenbanner: 4.75
+  greenbed: 2.25
+  greencarpet: 0.5
+  greenconcrete: 3.75
+  greenconcretepowder: 3.25
+  greendye: 10
+  greenglazedterracotta: 42.25
+  greenstainedglass: 3.25
+  greenstainedglasspane: 1.6
+  greenterracotta: 41.75
+  greenwool: 0.75
+  grindstone: 3.15
+  gunpowder: 7
+  hayblock: 7.65
+  heartofthesea: 500
+  heavyweightedpressureplate: 40
+  honeyblock: 12
+  honeybottle: 5.5
+  honeycomb: 3
+  honeycombblock: 12
+  hopper: 104
+  hopperminecart: 204
+  horncoral: 5
+  horncoralfan: 5
+  ice: 1
+  inksac: 1.5
+  ironbars: 7.5
+  ironblock: 1080
+  irondoor: 40
+  ironhorsearmor: 80
+  ironingot: 20
+  ironnugget: 2.25
+  ironore: 40
+  irontrapdoor: 80
+  itemframe: 12
+  jackolantern: 27.5
+  jukebox: 204
+  jungleboat: 4.5
+  junglebutton: 0.5
+  jungledoor: 1
+  junglefence: 0.85
+  junglefencegate: 2
+  jungleleaves: 3
+  junglelog: 2
+  jungleplanks: 0.5
+  junglepressureplate: 1
+  junglesapling: 3
+  junglesign: 1
+  jungleslab: 0.25
+  junglestairs: 0.75
+  jungletrapdoor: 1.5
+  junglewood: 2.65
+  kelp: 3.5
+  ladder: 1.75
+  lantern: 33.25
+  lapisblock: 950
+  lapislazuli: 105.5
+  lapisore: 111
+  largefern: 1
+  lavabucket: 70
+  lead: 50
+  leather: 15
+  leatherhorsearmor: 60
+  lectern: 139
+  lever: 3.25
+  lightbluebanner: 4.75
+  lightbluebed: 2.25
+  lightbluecarpet: 0.5
+  lightblueconcrete: 9.1
+  lightblueconcretepowder: 47.6
+  lightbluedye: 52.8
+  lightblueglazedterracotta: 47.1
+  lightbluestainedglass: 8.6
+  lightbluestainedglasspane: 4.3
+  lightblueterracotta: 47.1
+  lightbluewool: 0.75
+  lightgraybanner: 4.75
+  lightgraybed: 2.25
+  lightgraycarpet: 0.5
+  lightgrayconcrete: 2.6
+  lightgrayconcretepowder: 2.1
+  lightgraydye: 0.6
+  lightgrayglazedterracotta: 41.1
+  lightgraystainedglass: 2.1
+  lightgraystainedglasspane: 1.05
+  lightgrayterracotta: 40.6
+  lightgraywool: 0.75
+  lightweightedpressureplate: 40
+  lilac: 0.5
+  lilyofthevalley: 0.5
+  lilypad: 0.5
+  limebanner: 4.75
+  limebed: 2.25
+  limecarpet: 0.5
+  limeconcrete: 2.6
+  limeconcretepowder: 3.6
+  limedye: 5
+  limeglazedterracotta: 41.6
+  limestainedglass: 2.6
+  limestainedglasspane: 1.6
+  limeterracotta: 41.1
+  limewool: 0.75
+  lodestone: 4448
+  loom: 11
+  magentabanner: 4.75
+  magentabed: 2.25
+  magentacarpet: 0.5
+  magentaconcrete: 5.8
+  magentaconcretepowder: 5.3
+  magentadye: 26.6
+  magentaglazedterracotta: 44.3
+  magentastainedglass: 5.3
+  magentastainedglasspane: 2.65
+  magentaterracotta: 43.8
+  magentawool: 0.75
+  magmablock: 55
+  magmacream: 53.75
+  melon: 7
+  melonseeds: 1
+  melonslice: 1
+  milkbucket: 70
+  minecart: 100
+  mossycobblestone: 5
+  mossycobblestoneslab: 2.5
+  mossycobblestonestairs: 5
+  mossycobblestonewall: 5
+  mossystonebrickslab: 5
+  mossystonebrickstairs: 2.5
+  mossystonebrickwall: 5
+  mossystonebricks: 5
+  mushroomstem: 2.5
+  mushroomstew: 4.5
+  mutton: 1
+  mycelium: 10
+  nametag: 100
+  nautilusshell: 60
+  netherbrick: 0.5
+  netherbrickfence: 0.85
+  netherbrickslab: 1
+  netherbrickstairs: 2
+  netherbrickwall: 2
+  netherbricks: 2
+  nethergoldore: 210
+  netherquartzore: 20
+  nethersprouts: 2
+  netherstar: 6000
+  netherwart: 10
+  netherwartblock: 90
+  netheriteblock: 39798
+  netheriteingot: 4422
+  netherrack: 0.25
+  noteblock: 36
+  oakboat: 4.5
+  oakbutton: 0.5
+  oakdoor: 1
+  oakfence: 0.85
+  oakfencegate: 2
+  oakleaves: 3
+  oaklog: 2
+  oakplanks: 0.5
+  oakpressureplate: 1
+  oaksapling: 3
+  oaksign: 1
+  oakslab: 0.25
+  oakstairs: 0.75
+  oaktrapdoor: 1.5
+  oakwood: 2.65
+  observer: 92
+  obsidian: 64
+  orangebanner: 4.75
+  orangebed: 2.25
+  orangecarpet: 0.5
+  orangeconcrete: 2.55
+  orangeconcretepowder: 2.05
+  orangedye: 0.5
+  orangeglazedterracotta: 41.05
+  orangestainedglass: 2.05
+  orangestainedglasspane: 1
+  orangeterracotta: 40.55
+  orangetulip: 0.5
+  orangewool: 0.75
+  oxeyedaisy: 0.5
+  packedice: 9
+  painting: 2.75
+  paper: 5
+  peony: 0.5
+  phantommembrane: 50
+  pinkbanner: 4.75
+  pinkbed: 2.25
+  pinkcarpet: 0.5
+  pinkconcrete: 2.5
+  pinkconcretepowder: 1.25
+  pinkdye: 0.3
+  pinkglazedterracotta: 41
+  pinkstainedglass: 2
+  pinkstainedglasspane: 1
+  pinkterracotta: 40.5
+  pinktulip: 0.5
+  pinkwool: 0.75
+  piston: 69.5
+  playerhead: 7500
+  podzol: 3
+  poisonouspotato: 2
+  polishedandesite: 3
+  polishedandesiteslab: 1.5
+  polishedandesitestairs: 3
+  polishedbasalt: 4
+  polishedblackstone: 5
+  polishedblackstonebrickslab: 2.5
+  polishedblackstonebrickstairs: 5
+  polishedblackstonebrickwall: 5
+  polishedblackstonebricks: 5
+  polishedblackstonebutton: 5
+  polishedblackstonepressureplate: 10
+  polishedblackstoneslab: 2.5
+  polishedblackstonestairs: 5
+  polishedblackstonewall: 5
+  polisheddiorite: 3
+  polisheddioriteslab: 1.5
+  polisheddioritestairs: 3
+  polishedgranite: 3
+  polishedgraniteslab: 1.5
+  polishedgranitestairs: 3
+  poppedchorusfruit: 0.5
+  poppy: 0.5
+  porkchop: 1.5
+  potato: 0.5
+  poweredrail: 110.5
+  prismarine: 10
+  prismarinebrickslab: 5
+  prismarinebrickstairs: 10
+  prismarinebricks: 10
+  prismarinecrystals: 2.5
+  prismarineshard: 2.5
+  prismarineslab: 5
+  prismarinestairs: 10
+  prismarinewall: 10
+  pufferfish: 0.5
+  pufferfishbucket: 60.5
+  pumpkin: 12.5
+  pumpkinpie: 4
+  pumpkinseeds: 2
+  purplebanner: 4.75
+  purplebed: 2.25
+  purplecarpet: 0.5
+  purpleconcrete: 9.1
+  purpleconcretepowder: 8.6
+  purpledye: 53
+  purpleglazedterracotta: 47.6
+  purplestainedglass: 8.6
+  purplestainedglasspane: 4.3
+  purpleterracotta: 47.1
+  purplewool: 0.75
+  purpurblock: 14
+  purpurpillar: 14
+  purpurslab: 7
+  purpurstairs: 14
+  quartz: 10
+  quartzblock: 40
+  quartzbricks: 40
+  quartzpillar: 40
+  quartzslab: 20
+  quartzstairs: 40
+  rabbit: 2
+  rabbitfoot: 25
+  rabbithide: 3.75
+  rabbitstew: 5
+  rail: 7.50
+  redbanner: 4.75
+  redbed: 2.25
+  redcarpet: 0.50
+  redconcrete: 2.55
+  redconcretepowder: 2.05
+  reddye: 0.5
+  redglazedterracotta: 41.05
+  redmushroom: 0.75
+  redmushroomblock: 2.50
+  rednetherbrickslab: 0.5
+  rednetherbrickstairs: 1.5
+  rednetherbrickwall: 1
+  rednetherbricks: 1
+  redsand: 2
+  redsandstone: 8
+  redsandstoneslab: 4
+  redsandstonestairs: 12
+  redsandstonewall: 8
+  redstainedglass: 2.05
+  redstainedglasspane: 1
+  redterracotta: 40.55
+  redtulip: 0.5
+  redwool: 0.75
+  redstone: 32
+  redstoneblock: 288
+  redstonelamp: 158
+  redstoneore: 64
+  redstonetorch: 32.5
+  repeater: 106.75
+  respawnanchor: 9084
+  rosebush: 0.5
+  rottenflesh: 0.15
+  saddle: 100
+  salmon: 1
+  salmonbucket: 61
+  sand: 2
+  sandstone: 8
+  sandstoneslab: 4
+  sandstonestairs: 12
+  sandstonewall: 8
+  scaffolding: 5.85
+  scute: 50
+  sealantern: 22.5
+  seapickle: 10
+  seagrass: 3
+  shroomlight: 2
+  shulkershell: 200
+  skeletonskull: 5000
+  skullbannerpattern: 3010
+  slimeball: 50
+  slimeblock: 450
+  smithingtable: 42
+  smoker: 32
+  smoothquartz: 10
+  smoothquartzslab: 5
+  smoothquartzstairs: 15
+  smoothredsandstone: 8
+  smoothredsandstoneslab: 4
+  smoothredsandstonestairs: 12
+  smoothsandstone: 3.75
+  smoothsandstoneslab: 1.9
+  smoothsandstonestairs: 2
+  smoothstone: 3.75
+  smoothstoneslab: 1.9
+  snowblock: 4
+  snowball: 1
+  soulcampfire: 10.75
+  soullantern: 37
+  soulsand: 4
+  soulsoil: 4
+  soultorch: 19.25
+  spectralarrow: 14.75
+  spidereye: 3.50
+  sponge: 400
+  spruceboat: 4.50
+  sprucebutton: 0.5
+  sprucedoor: 1
+  sprucefence: 0.85
+  sprucefencegate: 2
+  spruceleaves: 3.00
+  sprucelog: 2.00
+  spruceplanks: 0.50
+  sprucepressureplate: 1.00
+  sprucesapling: 3
+  sprucesign: 1.00
+  spruceslab: 0.25
+  sprucestairs: 0.75
+  sprucetrapdoor: 1.50
+  sprucewood: 1.50
+  stick: 2.66
+  stickypiston: 0.25
+  stone: 3.25
+  stonebrickslab: 1.60
+  stonebrickstairs: 3.25
+  stonebrickwall: 3.25
+  stonebricks: 6.5
+  stonebutton: 1.6
+  stonepressureplate: 3.25
+  stoneslab: 1.6
+  stonestairs: 3.25
+  stonecutter: 29.75
+  string: 5
+  strippedacacialog: 2
+  strippedacaciawood: 2.66
+  strippedbirchlog: 2
+  strippedbirchwood: 2.66
+  strippedcrimsonhyphae: 2.66
+  strippedcrimsonstem: 2
+  strippeddarkoaklog: 2
+  strippeddarkoakwood: 2.66
+  strippedjunglelog: 2
+  strippedjunglewood: 2.66
+  strippedoaklog: 2
+  strippedoakwood: 2.66
+  strippedsprucelog: 2
+  strippedsprucewood: 2.66
+  strippedwarpedhyphae: 2.66
+  strippedwarpedstem: 2
+  sugar: 5
+  sugarcane: 5
+  sunflower: 0.5
+  suspiciousstew: 4.50
+  sweetberries: 0.5
+  tallgrass: 0.5
+  tallseagrass: 0.5
+  target: 135.65
+  terracotta: 40.5
+  tippedarrow: 4
+  tnt: 48
+  tntminecart: 148
+  torch: 15.25
+  totemofundying: 1000
+  trappedchest: 14.40
+  tripwire: 10.40
+  tripwirehook: 10.40
+  tropicalfish: 0.5
+  tropicalfishbucket: 60.5
+  tubecoral: 5
+  tubecoralblock: 5
+  tubecoralfan: 5
+  turtleegg: 50
+  twistingvines: 2
+  vine: 2
+  warpedbutton: 0.50
+  warpeddoor: 1.00
+  warpedfence: 0.85
+  warpedfencegate: 2.00
+  warpedfungus: 2.66
+  warpedfungusonastick: 0.50
+  warpedhyphae: 1.00
+  warpednylium: 1.00
+  warpedplanks: 0.25
+  warpedpressureplate: 0.75
+  warpedroots: 2.00
+  warpedsign: 2.66
+  warpedslab: 0.50
+  warpedstairs: 1.00
+  warpedstem: 1.00
+  warpedtrapdoor: 0.25
+  warpedwartblock: 0.75
+  waterbucket: 60
+  weepingvines: 2
+  wetsponge: 2
+  wheat: 0.85
+  wheatseeds: 0.1
+  whitebanner: 4.75
+  whitebed: 2.25
+  whitecarpet: 0.50
+  whiteconcrete: 2.5
+  whiteconcretepowder: 2
+  whitedye: 0.05
+  whiteglazedterracotta: 41
+  whitestainedglass: 2
+  whitestainedglasspane: 1
+  whiteterracotta: 40.50
+  whitetulip: 0.5
+  whitewool: 0.75
+  witherrose: 1
+  witherskeletonskull: 2000
+  yellowbanner: 49.5
+  yellowbed: 4.75
+  yellowcarpet: 0.50
+  yellowconcrete: 2.55
+  yellowconcretepowder: 2.05
+  yellowdye: 0.5
+  yellowglazedterracotta: 41.05
+  yellowstainedglass: 2.05
+  yellowstainedglasspane: 1
+  yellowterracotta: 4.55
+  yellowwool: 0.75
+  zombiehead: 5000
