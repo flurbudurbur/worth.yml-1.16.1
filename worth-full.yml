@@ -1,7 +1,10 @@
-#made by flurbudurbur for version 1.16.1.
+#made by flurbudurbur and A Wolf The Bottom for version 1.16.1.
 #based on that uncraftable items have a set value.
 #not yet optimised for economy.
 
+#--NOTES--
+#stair that can be made with a stonecutter will have the same sell price as 
+#the material it was made with to prevent cheating the system. 
 #farmable resources will be worth less.
 
 
