@@ -37,7 +37,7 @@ worth:
   arrow: 1.5
   azurebluet: 0.5
   bakedpotato: 4.5
-  bamboo: 5
+  bamboo: 10
   barrel: 3.5
   basalt: 4
   beacon: 6204.5
@@ -96,8 +96,8 @@ worth:
   bone: 0.15
   boneblock: 0.45
   bonemeal: 0.5
-  book: 45
-  bookshelf: 138
+  book: 60
+  bookshelf: 183
   bowl: 1.5
   braincoral: 5
   braincoralblock: 5
@@ -124,7 +124,7 @@ worth:
   bubblecoral: 5
   bubblecoralfan: 5
   bucket: 60
-  cactus: 6.5
+  cactus: 13
   cake: 7
   campfire: 27.75
   carrot: 2.5
@@ -150,13 +150,13 @@ worth:
   clock: 452
   coal: 15
   coalblock: 135
-  coalore: 20
+  coalore: 30
   coarsedirt: 0.50
   cobblestone: 3
   cobblestoneslab: 1.5
   cobblestonestairs: 3
   cobblestonewall: 3
-  cobweb: 10
+  cobweb: 15
   cocoabeans: 0.5
   cod: 1
   codbucket: 90
@@ -262,7 +262,7 @@ worth:
   emerald: 150
   emeraldblock: 1350
   emeraldore: 300
-  enchantingtable: 701
+  enchantingtable: 716
   endcrystal: 38.75
   endrod: 11
   endstone: 4
@@ -371,7 +371,7 @@ worth:
   junglestairs: 0.75
   jungletrapdoor: 1.5
   junglewood: 2.65
-  kelp: 3.5
+  kelp: 7
   ladder: 1.75
   lantern: 33.25
   lapisblock: 950
@@ -436,9 +436,9 @@ worth:
   magentawool: 0.75
   magmablock: 55
   magmacream: 53.75
-  melon: 7
+  melon: 18
   melonseeds: 1
-  melonslice: 1
+  melonslice: 2
   milkbucket: 70
   minecart: 100
   mossycobblestone: 5
@@ -466,7 +466,7 @@ worth:
   nethersprouts: 2
   netherstar: 6000
   netherwart: 10
-  netherwartblock: 90
+  netherwartblock: 45
   netheriteblock: 39798
   netheriteingot: 4422
   netherrack: 0.25
@@ -503,7 +503,7 @@ worth:
   oxeyedaisy: 0.5
   packedice: 9
   painting: 2.75
-  paper: 5
+  paper: 10
   peony: 0.5
   phantommembrane: 50
   pinkbanner: 4.75
@@ -558,7 +558,7 @@ worth:
   prismarinewall: 10
   pufferfish: 0.5
   pufferfishbucket: 60.5
-  pumpkin: 12.5
+  pumpkin: 18
   pumpkinpie: 4
   pumpkinseeds: 2
   purplebanner: 4.75
@@ -705,8 +705,8 @@ worth:
   strippedsprucewood: 2.66
   strippedwarpedhyphae: 2.66
   strippedwarpedstem: 2
-  sugar: 5
-  sugarcane: 5
+  sugar: 10
+  sugarcane: 10
   sunflower: 0.5
   suspiciousstew: 4.50
   sweetberries: 0.5
