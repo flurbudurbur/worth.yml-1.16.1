@@ -93,8 +93,8 @@ worth:
   bluestainedglasspane: 1.2
   blueterracotta: 40.9
   bluewool: 0.75
-  bone: 0.15
-  boneblock: 0.45
+  bone: 2.5
+  boneblock: 4.5
   bonemeal: 0.5
   book: 60
   bookshelf: 183
@@ -157,7 +157,7 @@ worth:
   cobblestonestairs: 3
   cobblestonewall: 3
   cobweb: 15
-  cocoabeans: 0.5
+  cocoabeans: 3
   cod: 1
   codbucket: 90
   comparator: 116.5
@@ -255,8 +255,8 @@ worth:
   dioritewall: 3
   dirt: 0.25
   dispenser: 68.75
-  driedkelp: 1.5
-  driedkelpblock: 13.5
+  driedkelp: 7.5
+  driedkelpblock: 63.5
   dropper: 28
   egg: 1.25
   emerald: 150
@@ -618,7 +618,7 @@ worth:
   repeater: 106.75
   respawnanchor: 9084
   rosebush: 0.5
-  rottenflesh: 0.15
+  rottenflesh: 6.25
   saddle: 100
   salmon: 1
   salmonbucket: 61
@@ -659,7 +659,7 @@ worth:
   soulsoil: 4
   soultorch: 19.25
   spectralarrow: 14.75
-  spidereye: 3.50
+  spidereye: 8.50
   sponge: 400
   spruceboat: 4.50
   sprucebutton: 0.5
@@ -688,7 +688,7 @@ worth:
   stoneslab: 1.6
   stonestairs: 3.25
   stonecutter: 29.75
-  string: 5
+  string: 13
   strippedacacialog: 2
   strippedacaciawood: 2.66
   strippedbirchlog: 2
@@ -749,7 +749,7 @@ worth:
   warpedwartblock: 0.75
   waterbucket: 60
   weepingvines: 2
-  wetsponge: 2
+  wetsponge: 395
   wheat: 0.85
   wheatseeds: 0.1
   whitebanner: 4.75
